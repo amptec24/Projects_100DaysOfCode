@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="238a8d7c-85ee-446d-8fc7-904a4b177d20" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Day16 - Object Oriented Programming (OOP)/day-16-start/another_module.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day16 - Object Oriented Programming (OOP)/day-16-start/main.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day16 - Object Oriented Programming (OOP)/Coffee+Machine+Classes+Documentation.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
