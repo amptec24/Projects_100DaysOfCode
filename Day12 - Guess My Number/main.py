@@ -1,13 +1,14 @@
-#Number guessing game written by Allen Clarke
-#importing modules
+# Code written by Allen Clarke
+# Number guessing game written
+# Importing modules
 from random import randint
 from art import logo
 
-#Choosing a randon nuymber between 1 and 100.
+# Choosing a randon number between 1 and 100.
 computer_number = randint(1, 101)
 game_level = {"easy": 10, "hard": 5}
 
-#Comparing numbers functions
+# Comparing numbers functions
 def compare(guessed_number):
     if guessed_number > computer_number:
         return "Too high!"
@@ -16,7 +17,7 @@ def compare(guessed_number):
     elif guessed_number == computer_number:
         return "matched"
 
-#Playing Game function
+# Playing Game function
 def game():
   play_game = True
   print(logo)
