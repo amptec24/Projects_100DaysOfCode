@@ -1,8 +1,9 @@
+# Code written by Allen Clarke
 # 1.Debugging Odd and Even
 number = int(input("Which number do you want to check?: "))
 
 # if number % 2 = 0:
-#The a above if statement was set the number % 2 as 0 and check to see if it was equal to 0
+# The a above if statement was set the number % 2 as 0 and check to see if it was equal to 0
 if number % 2 == 0:
   print("This is an even number.")
 else:
