@@ -1,66 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="238a8d7c-85ee-446d-8fc7-904a4b177d20" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Day16 - Object Oriented Programming (OOP)/day-16-start/another_module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day16 - Object Oriented Programming (OOP)/day-16-start/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day16 - Object Oriented Programming (OOP)/day-16-start2/another_module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day16 - Object Oriented Programming (OOP)/day-16-start2/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day17 - the Quiz Project &amp; the Benefit og OOP/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day17 - the Quiz Project &amp; the Benefit og OOP2/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Projects_100DaysOfCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Projects_100DaysOfCode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day1 - Name Generator/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day1 - Name Generator/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day10 - Calculator Program/art.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day10 - Calculator Program/art.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day10 - Calculator Program/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day10 - Calculator Program/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day11 - Blackjack 21 Game/art.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day11 - Blackjack 21 Game/art.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day11 - Blackjack 21 Game/screen_clear.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day11 - Blackjack 21 Game/screen_clear.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day11 - Blackjack 21 Game/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day11 - Blackjack 21 Game/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day12 - Guess My Number/art.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day12 - Guess My Number/art.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day12 - Guess My Number/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day12 - Guess My Number/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day13 - Beginner Debugging/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day13 - Beginner Debugging/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day14 - Higher and Lower Game/art.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day14 - Higher and Lower Game/art.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day14 - Higher and Lower Game/game_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day14 - Higher and Lower Game/game_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day14 - Higher and Lower Game/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day14 - Higher and Lower Game/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day15 - Coffee Machine/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day15 - Coffee Machine/data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day15 - Coffee Machine/images.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day15 - Coffee Machine/images.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day15 - Coffee Machine/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day15 - Coffee Machine/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day17 - the Quiz Project &amp; the Benefit of OOP/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Day17 - the Quiz Project &amp; the Benefit of OOP/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day17 - the Quiz Project &amp; the Benefit of OOP/.idea/Day17 - the Quiz Project &amp; the Benefit of OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Day17 - the Quiz Project &amp; the Benefit of OOP/.idea/Day17 - the Quiz Project &amp; the Benefit of OOP.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day17 - the Quiz Project &amp; the Benefit of OOP/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Day17 - the Quiz Project &amp; the Benefit of OOP/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day17 - the Quiz Project &amp; the Benefit of OOP/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Day17 - the Quiz Project &amp; the Benefit of OOP/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day17 - the Quiz Project &amp; the Benefit of OOP/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Day17 - the Quiz Project &amp; the Benefit of OOP/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day17 - the Quiz Project &amp; the Benefit of OOP/day17_start_code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day17 - the Quiz Project &amp; the Benefit of OOP/day17_start_code.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day17 - the Quiz Project &amp; the Benefit of OOP/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day17 - the Quiz Project &amp; the Benefit of OOP/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day17 - the Quiz Project &amp; the Benefit of OOP/question_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day17 - the Quiz Project &amp; the Benefit of OOP/question_model.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day17 - the Quiz Project &amp; the Benefit of OOP/quiz_brain.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day17 - the Quiz Project &amp; the Benefit of OOP/quiz_brain.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day18 - Turtle and the Graphic User Interface (GUI)/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Day18 - Turtle and the Graphic User Interface (GUI)/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day18 - Turtle and the Graphic User Interface (GUI)/.idea/Day18 - Turtle and the Graphic User Interface (GUI).iml" beforeDir="false" afterPath="$PROJECT_DIR$/Day18 - Turtle and the Graphic User Interface (GUI)/.idea/Day18 - Turtle and the Graphic User Interface (GUI).iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day18 - Turtle and the Graphic User Interface (GUI)/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Day18 - Turtle and the Graphic User Interface (GUI)/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day18 - Turtle and the Graphic User Interface (GUI)/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Day18 - Turtle and the Graphic User Interface (GUI)/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day18 - Turtle and the Graphic User Interface (GUI)/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Day18 - Turtle and the Graphic User Interface (GUI)/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day18 - Turtle and the Graphic User Interface (GUI)/day18_Challenge1_DrawingASqure.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day18 - Turtle and the Graphic User Interface (GUI)/day18_Challenge1_DrawingASqure.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day18 - Turtle and the Graphic User Interface (GUI)/day18_Challenge2_DrawADashedLine.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day18 - Turtle and the Graphic User Interface (GUI)/day18_Challenge2_DrawADashedLine.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day18 - Turtle and the Graphic User Interface (GUI)/day18_Challenge3_DrawingDifferentShapes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day18 - Turtle and the Graphic User Interface (GUI)/day18_Challenge3_DrawingDifferentShapes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day18 - Turtle and the Graphic User Interface (GUI)/day18_Challenge4_GenerateARandomWalk.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day18 - Turtle and the Graphic User Interface (GUI)/day18_Challenge4_GenerateARandomWalk.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day18 - Turtle and the Graphic User Interface (GUI)/day18_Challenge5_DrawASpirograph.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day18 - Turtle and the Graphic User Interface (GUI)/day18_Challenge5_DrawASpirograph.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day18 - Turtle and the Graphic User Interface (GUI)/day18_startfile.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day18 - Turtle and the Graphic User Interface (GUI)/day18_startfile.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day18 - Turtle and the Graphic User Interface (GUI)/hirst-painting/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day18 - Turtle and the Graphic User Interface (GUI)/hirst-painting/main.py" afterDir="false" />
+    <list default="true" id="238a8d7c-85ee-446d-8fc7-904a4b177d20" name="Changes" comment="Update day1 code">
       <change beforePath="$PROJECT_DIR$/Day2 - Restaurant Tip Calculator/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day2 - Restaurant Tip Calculator/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day3 - Treasure Island Game/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day3 - Treasure Island Game/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day4 - Rock Paper Scissors Game/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day4 - Rock Paper Scissors Game/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day5 - Password Generator/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day5 - Password Generator/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day6 - No Coding/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day6 - No Coding/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day7 - Hangman Game/hangman_art.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day7 - Hangman Game/hangman_art.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day7 - Hangman Game/hangman_words.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day7 - Hangman Game/hangman_words.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day7 - Hangman Game/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day7 - Hangman Game/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day8 - Caesar Code Cipher/art.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day8 - Caesar Code Cipher/art.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day8 - Caesar Code Cipher/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day8 - Caesar Code Cipher/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day9 - Secret Auction Program/art.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day9 - Secret Auction Program/art.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day9 - Secret Auction Program/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day9 - Secret Auction Program/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,6 +121,21 @@
       <option name="presentableId" value="Default" />
       <updated>1650124378269</updated>
     </task>
+    <task id="LOCAL-00001" summary="Re-upload day19 code">
+      <created>1651266050273</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1651266050273</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Update day1 code">
+      <created>1651266278161</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1651266278161</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -194,5 +151,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="All coded updated with PyCharm" />
+    <MESSAGE value="Re-upload day19 code" />
+    <MESSAGE value="Update day1 code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update day1 code" />
   </component>
 </project>

@@ -1,5 +1,5 @@
-#Creating a Tip Calculator by Allen Clarke. 
-#My code below this line 
+# Creating a Tip Calculator by Allen Clarke.
+# My code below this line
 print("Welcome to the tip calculator.")
 
 # Capturing total of the bill
@@ -14,7 +14,7 @@ people = int(input("How many people to split the bill amount? "))
 
 # Calculate total what each person will pay
 total_bill = (bill * tip_added) / people
-#use this if no format is needed bill_per_person = round(total_bill, 2)
+# Use this if no format is needed bill_per_person = round(total_bill, 2)
 bill_per_person = "{:.2f}".format(total_bill)
 
 # Final bill per person
