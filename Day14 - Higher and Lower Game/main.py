@@ -1,5 +1,6 @@
-#High and lower game written by Allen Clarke
-#Import modules
+# Code written by Allen Clarke
+# High and lower game
+# Import modules
 from art import logo, vs
 from game_data import data
 import random
