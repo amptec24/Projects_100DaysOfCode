@@ -1,3 +1,4 @@
+# Code written by Allen Clarke
 rock = '''
     _______
 ---'   ____)
