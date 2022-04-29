@@ -1,3 +1,5 @@
+# Code written by Allen Clarke
+
 from data import MENU, resources
 from images import logo
 
@@ -36,7 +38,6 @@ def compare_resources(coffee_type, water_level_check, milk_level_check, coffee_l
         return False, "This drink is not available! Additional water is needed to make this drink.", "system"
 
 
-
 def resources_check(water_level_check, milk_level_check, coffee_level_check):
     """Check coffee machine before offering the user the options"""
     if water_level_check <= 0:
@@ -59,7 +60,7 @@ def enough_money(coffee_type, user_paid):
 
 
 def check_make(user_selection, water_available, milk_available, coffee_available):
-    """Taking the currecnt level of ingredients check to see there is enough and the reduce the current selection"""
+    """Taking the current level of ingredients check to see there is enough and the reduce the current selection"""
     water_needed = MENU[user_selection]["ingredients"]["water"]
     coffee_needed = MENU[user_selection]["ingredients"]["coffee"]
     if user_selection == "espresso":
@@ -123,7 +124,7 @@ def coffee_machine():
             print(coffee_selection[1])
             continue_making_coffee = coffee_selection[0]
             ##################################
-            #Update the avaiable resources
+            # Update the available resources
             if coffee_selection[0] and coffee_selection[2] != "system":
                 water_level = coffee_selection[3][0]
                 milk_level = coffee_selection[3][1]
