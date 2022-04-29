@@ -1,13 +1,14 @@
-#Import all the module needed
-#from replit import clear
+# Code written by Allen Clarke
+# #Import all the module needed
+# from replit import clear
 from art import logo
 from os import system, name
 
-#Define variables
+# Define variables
 end_of_bids = False
 bids = {}
 
-#Define a calculating winner function
+# Define a calculating winner function
 def clear():
    # for mac and linux(here, os.name is 'posix')
    if name == 'posix':
@@ -26,18 +27,18 @@ def find_winner(bid_values):
       winner = bidder
   print(f"Congratulations! The winner is {winner} with a bid of £{highest_bid}!")
 
-#Display logo at the start of the game
+# Display logo at the start of the game
 print(logo)
 print("\nWelcome to the my secret auction program, lets start!")
 
-#Main code 
+# Main code
 while not end_of_bids:  
     name = input("What is your name?\n")
     bid = int(input("What's your bid?:\n£"))
     bids[name] = bid
    
     other_bidders = input("\nAre there any other bidders? Type 'Yes' or 'No'\n").lower()
-    #Check if the user want to end bidding
+    # Check if the user want to end bidding
     if other_bidders == "no":
       end_of_bids = True
       clear() 
