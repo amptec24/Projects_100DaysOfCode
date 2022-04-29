@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="238a8d7c-85ee-446d-8fc7-904a4b177d20" name="Changes" comment="Update day1 code">
-      <change beforePath="$PROJECT_DIR$/Day2 - Restaurant Tip Calculator/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day2 - Restaurant Tip Calculator/main.py" afterDir="false" />
+    <list default="true" id="238a8d7c-85ee-446d-8fc7-904a4b177d20" name="Changes" comment="Update day4 code">
+      <change beforePath="$PROJECT_DIR$/Day5 - Password Generator/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day5 - Password Generator/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,7 +135,28 @@
       <option name="project" value="LOCAL" />
       <updated>1651266278161</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Update day2 code">
+      <created>1651266433998</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1651266433998</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Update day3 code">
+      <created>1651266523968</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1651266523968</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Update day4 code">
+      <created>1651266638372</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1651266638373</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -154,6 +175,9 @@
     <MESSAGE value="All coded updated with PyCharm" />
     <MESSAGE value="Re-upload day19 code" />
     <MESSAGE value="Update day1 code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update day1 code" />
+    <MESSAGE value="Update day2 code" />
+    <MESSAGE value="Update day3 code" />
+    <MESSAGE value="Update day4 code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update day4 code" />
   </component>
 </project>
