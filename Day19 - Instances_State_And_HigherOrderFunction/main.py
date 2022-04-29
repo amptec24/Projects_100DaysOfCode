@@ -1,3 +1,5 @@
+# Code written by Allen Clarke
+
 from turtle import Turtle, Screen
 import random
 
