@@ -1,3 +1,5 @@
+# Code written by Allen Clarke
+
 from turtle import Screen
 from snake import Snake
 import time

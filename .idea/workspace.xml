@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="238a8d7c-85ee-446d-8fc7-904a4b177d20" name="Changes" comment="Update day14 code">
-      <change beforePath="$PROJECT_DIR$/Day15 - Coffee Machine/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day15 - Coffee Machine/main.py" afterDir="false" />
+    <list default="true" id="238a8d7c-85ee-446d-8fc7-904a4b177d20" name="Changes" comment="Update day19 code">
+      <change beforePath="$PROJECT_DIR$/Day20 - Build the Snake Game pt1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day20 - Build the Snake Game pt1/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -226,7 +226,42 @@
       <option name="project" value="LOCAL" />
       <updated>1651267715080</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Update day15 code">
+      <created>1651267936462</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1651267936462</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Update day16 code">
+      <created>1651268002140</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1651268002140</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Update day17 code">
+      <created>1651268074407</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1651268074407</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Update day18 code">
+      <created>1651268136933</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1651268136933</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Update day19 code">
+      <created>1651268195317</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1651268195317</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -258,6 +293,11 @@
     <MESSAGE value="Update day12 code" />
     <MESSAGE value="Update day13 code" />
     <MESSAGE value="Update day14 code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update day14 code" />
+    <MESSAGE value="Update day15 code" />
+    <MESSAGE value="Update day16 code" />
+    <MESSAGE value="Update day17 code" />
+    <MESSAGE value="Update day18 code" />
+    <MESSAGE value="Update day19 code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update day19 code" />
   </component>
 </project>
