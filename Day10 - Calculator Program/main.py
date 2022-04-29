@@ -1,7 +1,7 @@
-# Code written bbby Allen Clarke
+# Code written by Allen Clarke
 
-#Import the module needed
-#from replit import clear
+# Import the module needed
+# from replit import clear
 from art import logo
 from os import system, name
 
