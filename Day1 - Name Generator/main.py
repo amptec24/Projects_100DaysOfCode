@@ -1,3 +1,4 @@
+# Code written by Allen Clarke
 # Greeting print.
 print("Welcome to the Band Name Generator")
 #Asking the user for the city that they grew up in.
