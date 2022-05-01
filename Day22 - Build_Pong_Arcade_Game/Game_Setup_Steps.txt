@@ -1,0 +1,15 @@
+Steps to create the Pong Game
+
+Step 1. Set up a scare
+Step 2. Create and move the bar
+Step 3. Create another bar for opponent
+Step 4. create the ball and make it move
+Step 5. Detect collision with wall and bounce back
+Step 6. Detect collision with bar
+Step 7. Detect when the bar misses
+Step 8. Create a scoreboard
+
+Creating module
+- Bar (Python Turtle)
+- Ball
+- scoreboard
